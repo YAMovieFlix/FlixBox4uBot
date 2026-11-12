@@ -13,7 +13,7 @@ from motor.motor_asyncio import AsyncIOMotorClient
 # ==========================================
 # ⚙️ ১. কনফিগারেশন (আপনার ডাটা দিন)
 # ==========================================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "9219855483:AAH9ZrxFejeC_j9X697I_UOGSlnneH1_bSs"
 MONGO_URI = "YOUR_MONGODB_URI_HERE"
 WEB_APP_URL = "https://your-render-app-url.onrender.com" 
 
