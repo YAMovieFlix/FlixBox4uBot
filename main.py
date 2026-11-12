@@ -16,7 +16,7 @@ from bson import ObjectId
 # ==========================================
 # ⚙️ ১. কনফিগারেশন
 # ==========================================
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "9219855483:AAH9ZrxFejeC_j9X697I_UOGSlnneH1_bSs")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "9219855483:AAE79kQTJZiKTSVQ0XJ05Q5mowSec05Bq0o")
 MONGO_URI = os.environ.get("MONGO_URI", "mongodb+srv://akash:akash@cluster0.etisrpx.mongodb.net/?appName=Cluster0")
 WEB_APP_URL = os.environ.get("WEB_APP_URL", "https://flixbox4ubot.onrender.com")
 ADMIN_ID = int(os.environ.get("ADMIN_ID", "7120801813"))
